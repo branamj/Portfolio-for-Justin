@@ -1,4 +1,4 @@
 theme: jekyll-theme-time-machine
-title: Justin's Homepage
+title: Justin's Home
 plugins: [jekyll-youtube]
 {% youtube "https://www.youtube.com/watch?v=ho8-vK0L1_8" %}
