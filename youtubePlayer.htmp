@@ -5,5 +5,5 @@
     allowfullscreen>
 </iframe>
 
-{% include youtubePlayer.html id=youtu.be/X1v2qah3p-w}
+
 
