@@ -10,9 +10,7 @@ Please click [My GitHub Repository](https://github.com/branamj/Portfolio-for-Jus
 
 Hello, this is some text to fill in this, [here](#place-2), is a link to the second place.
 
-### Place 2
 
-Place one has the fun times of linking here, but I can also link back [here](#place-1).
 
 
 
@@ -44,3 +42,8 @@ Place one has the fun times of linking here, but I can also link back [here](#pl
   The last part of the code review I go over my assignment Advanced Querying and Creating Full-Text Indexes, again explaining the code and the why behind it. This is a great video which show my understanding of completing a code review and shows my understanding of the code I created. Enjoy!
 
 {% include youtubePlayer.html id="pQuC2kvL2HA" %}
+
+
+### Place 2
+
+Place one has the fun times of linking here, but I can also link back [here](#place-1).
