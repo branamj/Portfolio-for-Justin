@@ -42,4 +42,4 @@ The final area I touch on is about databases. I have chosen to enhance an assign
 
 ### Place 2
 
-Place one has the fun times of linking here, but I can also link back [here](#place-1).
+Click [here](#place-1) to go back to the top of page.
