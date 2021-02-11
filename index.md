@@ -1,42 +1,13 @@
-## Welcome to GitHub Pages
+## Welcome to my GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/branamj/Portfolio-for-Justin/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/branamj/Portfolio-for-Justin/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+As I end my studies at Southern New Hampshire University, I have a lot to be thankful for. Creating an ePortfolio is an amazing takeaway which will help showcase my newly formed skills and achievements. The ePortfolio helps promote my strengths in a well-rounded atmosphere and helps me become more employable in the computer science field because I can simply show my employer examples of my work and what I am capable of. This ePorfolio is an honest example of my skills. I still have a long way to go to be considered an expert in my new field, but the ePortfolio is a great example showing my limits and that I have potential to learn and grow. Now that I have the GitHub webpage up and running, I will always be able to add more content at any time. 
 
 
-### Code Review
+
+### My Code Review
+
+  This is a code review, which I go over in depth the functions of the two projects, The Airgead Banking application and Advanced Querying and Creating Full-Text Indexes. I first start with the Airgead Banking application, going almost line by line explaining what each part of the code does and why I have it. 
+  The last part of the code review I go over my assignment Advanced Querying and Creating Full-Text Indexes, again explaining the code and the why behind it. This is a great video which show my understanding of completing a code review and shows my understanding of the code I created. Enjoy!
+
 {% include youtubePlayer.html id="pQuC2kvL2HA" %}
 
