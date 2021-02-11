@@ -6,7 +6,7 @@ Please click [My GitHub Repository](https://github.com/branamj/Portfolio-for-Jus
 
 
 
-Click [here](#My code Review) to view my Code Review!
+Click [here](#place-2 My code Review) to view my Code Review!
 
 
 
