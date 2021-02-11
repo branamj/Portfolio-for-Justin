@@ -1,6 +1,6 @@
 ## Welcome to my GitHub Pages
 
-This site was built using [My GitHub Repository](https://github.com/branamj/Portfolio-for-Justin).
+This site was built using [My GitHub Repository](https://github.com/branamj/Portfolio-for-Justin/tree/gh-pages).
 
 Please click [My GitHub Repository](https://github.com/branamj/Portfolio-for-Justin) to access my repository!
 
