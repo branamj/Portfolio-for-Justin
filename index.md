@@ -6,9 +6,9 @@ Please click [My GitHub Repository](https://github.com/branamj/Portfolio-for-Jus
 
 ## Title
 
-### Place 1
 
-Hello, this is some text to fill in this, [here](#place-2), is a link to the second place.
+
+Click [here](#place-2) to view my Code Review!
 
 
 
