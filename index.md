@@ -1,4 +1,4 @@
-# Place 1
+#### Place 1
 ## Welcome to my GitHub Pages
 
 Please click [My GitHub Repository](https://github.com/branamj/Portfolio-for-Justin/tree/gh-pages) to access my repository!
@@ -29,7 +29,7 @@ The final area I touch on is about databases. I have chosen to enhance an assign
 
 
 
-# Place 2
+##### Place 2
 ### My Code Review
 
 
