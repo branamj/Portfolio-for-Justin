@@ -4,7 +4,19 @@ Please click [My GitHub Repository](https://github.com/branamj/Portfolio-for-Jus
 
 
 
-Click , [here](#place-2), to see my Code Review Video!, 
+## Title
+
+### Place 1
+
+Hello, this is some text to fill in this, [here](#place-2), is a link to the second place.
+
+### Place 2
+
+Place one has the fun times of linking here, but I can also link back [here](#place-1).
+
+### Place's 3: other example
+
+Place one has the fun times of linking here, but I can also link back [here](#places-3-other-example).
 
 
 
@@ -25,7 +37,10 @@ The final area I touch on is about databases. I have chosen to enhance an assign
 
 
 ### My Code Review
-[here](#place-1)
+
+### Place's 3: other example
+
+Place one has the fun times of linking here, but I can also link back [here](#places-3-other-example).
 
   This is a code review, which I go over in depth the functions of the two projects, The Airgead Banking application and Advanced Querying and Creating Full-Text Indexes. I first start with the Airgead Banking application, going almost line by line explaining what each part of the code does and why I have it. 
   The last part of the code review I go over my assignment Advanced Querying and Creating Full-Text Indexes, again explaining the code and the why behind it. This is a great video which show my understanding of completing a code review and shows my understanding of the code I created. Enjoy!
