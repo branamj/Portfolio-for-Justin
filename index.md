@@ -3,6 +3,8 @@
 Please click [My GitHub Repository](https://github.com/branamj/Portfolio-for-Justin/tree/gh-pages) to access my repository!
 
 
+[create an anchor](#anchors-in-markdown)
+
 As I end my studies at Southern New Hampshire University, I have a lot to be thankful for. Creating an ePortfolio is an amazing takeaway which will help showcase my newly formed skills and achievements. The ePortfolio helps promote my strengths in a well-rounded atmosphere and helps me become more employable in the computer science field because I can simply show my employer examples of my work and what I am capable of. This ePorfolio is an honest example of my skills. I still have a long way to go to be considered an expert in my new field, but the ePortfolio is a great example showing my limits and that I have potential to learn and grow. Now that I have the GitHub webpage up and running, I will always be able to add more content at any time. 
 
 In August of 2019 for my CS 250 class, I needed to create a Retrospective report. I took on different roles involved in developing an application in a team environment. Even though I played the part of Scrum Master to a programmer, it was an excellent example of how to work in an environment involving many moving parts. It had to cover planning, to resolving conflict, each part essential to one another to be successful in a team setting.
@@ -15,7 +17,7 @@ The final area I touch on is about databases. I have chosen to enhance an assign
 
 
 
-
+#anchors-in-markdown
 ### My Code Review
 
   This is a code review, which I go over in depth the functions of the two projects, The Airgead Banking application and Advanced Querying and Creating Full-Text Indexes. I first start with the Airgead Banking application, going almost line by line explaining what each part of the code does and why I have it. 
