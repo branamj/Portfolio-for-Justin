@@ -1,5 +1,7 @@
 ## Welcome to my GitHub Pages
 
+If you click the green link above it will take you to my GitHib repository. There you will be able to access all my work.
+
 As I end my studies at Southern New Hampshire University, I have a lot to be thankful for. Creating an ePortfolio is an amazing takeaway which will help showcase my newly formed skills and achievements. The ePortfolio helps promote my strengths in a well-rounded atmosphere and helps me become more employable in the computer science field because I can simply show my employer examples of my work and what I am capable of. This ePorfolio is an honest example of my skills. I still have a long way to go to be considered an expert in my new field, but the ePortfolio is a great example showing my limits and that I have potential to learn and grow. Now that I have the GitHub webpage up and running, I will always be able to add more content at any time. 
 
 
